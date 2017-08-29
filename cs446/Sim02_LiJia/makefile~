@@ -1,0 +1,8 @@
+Sim02: data.o MemoryFunction.o
+	g++ data.o MemoryFunction.o -o Sim02
+
+data: data.cpp MemoryFunction.h
+	g++ -c data.cpp -o data.o -lpthread
+
+MemoryFunction: MemoryFunction.cpp MemoryFunction.h
+	g++ -c MemoryFunction.cpp -o MemoryFunction.o

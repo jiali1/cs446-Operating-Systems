@@ -1,0 +1,48 @@
+0 - Simulator program starting
+9e-06 - OS: preparing process 1
+5.2e-05 - OS: starting process 1
+6.3e-05 - Process1: allocating memory
+0.420129 - Process1: memory allocated at Ox631
+0.42014 - Process1: start processing action
+0.460141 - Process1: end processing action
+0.460199 - Process1: start hard drive input
+1.16025 - Process1: end hard drive input
+1.16028 - Process1: start printer output
+6.16033 - Process1: end printer output
+6.16036 - Process1: start processing action
+6.25037 - Process1: end processing action
+6.25043 - Process1: start processing action
+6.34043 - Process1: end processing action
+6.34049 - Process1: start keyboard input
+11.3405 - Process1: end keyboard input
+11.3406 - Process1: start processing action
+11.4806 - Process1: end processing action
+11.4806 - Process1: start hard drive output
+11.9307 - Process1: end hard drive output
+11.9307 - Process1: allocating memory
+12.0708 - Process1: memory allocated at Ox173
+12.0708 - Process1: start mouse input
+12.2509 - Process1: end mouse input
+12.2509 - Process1: start hard drive output
+12.6009 - Process1: end hard drive output
+12.601 - Process1: start processing action
+12.681 - Process1: end processing action
+12.681 - Process1: start hard drive input
+13.2811 - Process1: end hard drive input
+13.2811 - Process1: start printer output
+19.2812 - Process1: end printer output
+19.2812 - Process1: start processing action
+19.3912 - Process1: end processing action
+19.3913 - Process1: start processing action
+19.4013 - Process1: end processing action
+19.4013 - Process1: start printer output
+21.9014 - Process1: end printer output
+21.9014 - Process1: start monitor output
+22.0265 - Process1: end monitor output
+22.0265 - Process1: start speaker output
+22.0466 - Process1: end speaker output
+22.0466 - Process1: start processing action
+22.1566 - Process1: end processing action
+22.1567 - Process1: start processing action
+22.2967 - Process1: end processing action
+22.2967 - OS: removing process 1
